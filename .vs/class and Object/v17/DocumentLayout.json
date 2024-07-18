@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naseem Msd\\source\\repos\\class and Object\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752015F5-51E0-4A4E-9A3A-3F9633C58202}|class and Object\\class and Object.csproj|e:\\decoders\\object and class\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Decoders\\Object and Class\\Student.cs",
+              "ToolTip": "E:\\Decoders\\Object and Class\\Student.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:50:15.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

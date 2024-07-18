@@ -1,0 +1,7 @@
+C:\Users\Naseem Msd\source\repos\class and Object\class and Object\obj\Debug\class and Object.csproj.AssemblyReference.cache
+C:\Users\Naseem Msd\source\repos\class and Object\class and Object\obj\Debug\class and Object.csproj.CoreCompileInputs.cache
+C:\Users\Naseem Msd\source\repos\class and Object\class and Object\bin\Debug\class and Object.exe.config
+C:\Users\Naseem Msd\source\repos\class and Object\class and Object\bin\Debug\class and Object.exe
+C:\Users\Naseem Msd\source\repos\class and Object\class and Object\bin\Debug\class and Object.pdb
+C:\Users\Naseem Msd\source\repos\class and Object\class and Object\obj\Debug\class and Object.exe
+C:\Users\Naseem Msd\source\repos\class and Object\class and Object\obj\Debug\class and Object.pdb
